@@ -1,9 +1,11 @@
 # Python supports integers, floats, and complex numbers.
 
 # Integers
-# The integers are numbers such as -1, 0, 1, 2, and 3, .. and they have type int.
+# The integers are numbers such as -1, 0, 1, 2, and 3, .. and they have
+# type int.
 
-# You can use Math operators like +, -, *, and / to form expressions that include integers.
+# You can use Math operators like +, -, *, and / to form expressions that
+# include integers.
 x = 20
 y = 10
 
@@ -24,7 +26,8 @@ print(result)       # 1.0
 
 
 # Floats
-# Any number with a decimal point is a floating-point number. The term float means that the decimal point can appear at any position in a number.
+# Any number with a decimal point is a floating-point number. The term float
+# means that the decimal point can appear at any position in a number.
 # In general, you can use floats like integers.
 x = 0.5
 y = 0.25
@@ -35,7 +38,8 @@ print(x * y)        # 0.125
 print(x / y)        # 2.0
 
 # The division of two integers always returns a float
-# If you mix an integer and a float in any arithmetic operation, the result is a float
+# If you mix an integer and a float in any arithmetic operation, the result is
+# a float
 x = 1
 y = 2.0
 print(x / y)        # 0.5
@@ -44,7 +48,8 @@ print(x / y)        # 0.5
 # To make the long numbers more readable, you can group digits using underscores
 count = 10_000_000_000
 print(count)        # 10000000000
-# When storing these values, Python just ignores the underscores. It does so when displaying the numbers with underscores on the screen:
+# When storing these values, Python just ignores the underscores.
+# It does so when displaying the numbers with underscores on the screen:
 
 
 # complex

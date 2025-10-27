@@ -1,10 +1,12 @@
-# A string is a series of characters. In Python, anything inside quotes is a string.
+# A string is a series of characters. In Python, anything inside quotes
+# is a string.
 # And you can use either single or double quotes.
 
 message = 'This is a string in Python'
 message = "This is also a string"
 
-# If a string contains a single quote, you should place it in double-quotes like this:
+# If a string contains a single quote, you should place it in double-quotes
+# like this:
 message = "It's a string"
 
 # And when a string contains double quotes, you can use the single quotes:
@@ -14,7 +16,8 @@ message = '"Beautiful is better than ugly.". Said Tim Peters'
 message = 'It\'s also a valid string'
 
 # The Python interpreter will treat the backslash character (\) special.
-# If you don't want it to do so, you can use raw strings by adding the letter r before the first quote.
+# If you don't want it to do so, you can use raw strings by adding the
+# letter r before the first quote.
 message = r'C:\python\bin'
 
 # To span a string multiple lines, you use triple-quotes
@@ -39,12 +42,14 @@ message = greeting + time + "!"
 print(message)      # Good Afternoon!
 
 # Accessing string elements
-# Since a string is a sequence of characters, you can access its elements using an index.
+# Since a string is a sequence of characters, you can access its elements
+# using an index.
 # index starts with 0 (zero).
 str = "Python String"
 print(str[0])       # P
 print(str[1])       # y
-# If you use a negative index, Python returns the character starting from the end of the string.
+# If you use a negative index, Python returns the character starting from the
+# end of the string.
 print(str[-1])      # g
 print(str[-2])      # n
 
@@ -52,7 +57,7 @@ print(str[-2])      # n
 # To get the length of a string, you use the len() function.
 str = "Python String"
 str_len = len(str)
-print(str_len)      # 13   
+print(str_len)      # 13
 print(len(str))     # 13
 
 
@@ -71,7 +76,8 @@ print(str[0:10:2])  # Pto t --> step value is 2 so 0, 2, 4, 8 index
 str = "Python String"
 # str[0] = 'J'      # will give error
 
-# when you want to modify a string, you need to create a new one from the existing string.
+# when you want to modify a string, you need to create a new one from the
+# existing string.
 new_str = "J" + str[1:]
 print(new_str)      # Jython String
 
