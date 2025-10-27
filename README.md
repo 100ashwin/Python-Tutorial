@@ -6,3 +6,7 @@
 - Python has become the solution in many domains, from web applications to data analysis, data science, machine learning, and AI.
   
 - Hello World program in python - [Hello World](Python_Basics\helloworld.py)
+
+## Python Basics  
+
+### Section 1: Fundamentals
