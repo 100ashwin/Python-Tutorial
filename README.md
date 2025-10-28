@@ -21,3 +21,10 @@
 
 
 ### Section 2: Operators
+- [Arithmetic Operators](Python_Basics/2_Operators/py_arithmetic_operator.py) - to perform mathematical operations.
+- [Assignment Operators](Python_Basics/2_Operators/py_assignment_operator.py) - to assign values to variables.
+- [Comparison Operators](Python_Basics/2_Operators/py_comparison_operators.py) - to compare two values.
+- [Logical Operators](Python_Basics/2_Operators/py_logical_operators.py) - to combine multiple conditions.
+
+
+### Section 3: Control Flow

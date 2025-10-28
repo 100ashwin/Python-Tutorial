@@ -7,7 +7,7 @@ print(count)        # 0
 count = count + 1
 print(count)        # 1
 
-# Note that the = in the expression is an assignment, 
+# Note that the = in the expression is an assignment,
 # not equal comparison:
 # In Python, the equal operator that compares two values is ==.
 
@@ -31,4 +31,3 @@ x **= y
 print(x)            # 25
 
 # and many other arithmetic symbols.....
-

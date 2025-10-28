@@ -1,5 +1,5 @@
 # Python comparison Operators
-# In programming, you often want to compare a value with another value. 
+# In programming, you often want to compare a value with another value.
 # To do that, you use comparison operators.
 
 # Python has six comparison operators:
@@ -10,7 +10,7 @@
 # Equal to ( == )
 # Not equal to ( != )
 
-# These comparison operators compare two values and return a boolean value, 
+# These comparison operators compare two values and return a boolean value,
 # either True or False.
 
 # You can use these comparison operators to compare both numbers and strings.
@@ -30,4 +30,3 @@ print(result)           # True
 
 result = "banana" < 'apple'
 print(result)           # False
-
