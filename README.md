@@ -18,3 +18,6 @@
 - [Python Constants](Python_Basics/1_Fundamentals/python_constants.py) - Constants in Python
 - [Python Comments](Python_Basics/1_Fundamentals/python_comments.py) - Notes in your code.
 - [Python Type Conversion](Python_Basics/1_Fundamentals/python_type_conversion.py) - Convert a value of one type to another.
+
+
+### Section 2: Operators
