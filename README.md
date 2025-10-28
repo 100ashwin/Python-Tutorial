@@ -28,3 +28,13 @@
 
 
 ### Section 3: Control Flow
+- [if...else statement](Python_Basics/3_Control_Flow/py_if_else.py) - execute a code block based on a condition.
+- [Ternary Operator](Python_Basics/3_Control_Flow/py_ternary_operator.py) - to make your code more concise.
+- [for loop with range()](Python_Basics/3_Control_Flow/py_for_loop.py) - execute a code block for a fixed number of times using range() function.
+- [while loop](Python_Basics/3_Control_Flow/py_while.py) - execute a code block as long as a condition is True.
+- [break](Python_Basics/3_Control_Flow/py_break.py) - exit a loop prematurely.
+- [continue](Python_Basics/3_Control_Flow/py_continue.py) - skip the current loop iteration and start the next one.
+- [pass](Python_Basics/3_Control_Flow/python_pass.py) - pass statement as a placeholder.
+
+
+### Section 4: Functions
